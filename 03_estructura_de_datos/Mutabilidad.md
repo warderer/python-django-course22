@@ -4,9 +4,9 @@
 *Inmutables:* Son aquellos que NO pueden modificar su valor una vez creado: Tupla, String, int
 
 
-# Inmutables
+## Inmutables
 nombre = "Josue"
 nombre = "Jose"
 
-# Mutable
+## Mutable
 lista = [1, 2, 3]

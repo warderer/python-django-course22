@@ -82,4 +82,4 @@ list_one.clear()
 # print(list_one)
 
 
-help(list_one)
+# help(list_one)
